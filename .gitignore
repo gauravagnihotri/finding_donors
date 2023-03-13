@@ -1,0 +1,5 @@
+/.ipynb_checkpoints
+/.vscode
+/Bayesian_Inference.ipynb
+/__pycache__
+/aibench.py
